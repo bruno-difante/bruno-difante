@@ -18,8 +18,8 @@ Tenho experiência na construção de aplicações com autenticação de usuári
 - 🔹 **Linguagens:** Python, JavaScript, TypeScript, HTML, CSS
 - 🔹 **Frameworks:** Django, React
 - 🔹 **Banco de Dados:** MongoDB, MySQL, SQL Server, PostgreSQL
-- 🔹 **Ferramentas:** Git, GitHub, Venv, pip
-- 🔹 **Outros conhecimentos:** REST API, versionamento de código, testes, conceitos básicos de Docker
+- 🔹 **Ferramentas:** Git, GitHub, Docker, Postman
+- 🔹 **Outros conhecimentos:** REST API, versionamento de código, testes
 
 ---
 
