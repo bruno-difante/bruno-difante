@@ -15,7 +15,7 @@ Tenho experiência na construção de aplicações com autenticação de usuári
 
 ## 🧰 Tecnologias e Ferramentas
 
-- 🔹 **Linguagens:** Python, JavaScript, HTML, CSS
+- 🔹 **Linguagens:** Python, JavaScript, TypeScript, HTML, CSS
 - 🔹 **Frameworks:** Django, React
 - 🔹 **Banco de Dados:** MongoDB, MySQL, SQL Server, PostgreSQL
 - 🔹 **Ferramentas:** Git, GitHub, Venv, pip
