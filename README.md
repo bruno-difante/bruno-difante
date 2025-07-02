@@ -11,8 +11,6 @@ Atualmente curso o sexto semestre de Ciência da Computação e venho me especia
 
 Tenho experiência na construção de aplicações com autenticação de usuários, integração com bancos de dados relacionais, criação de **REST APIs**, além de interfaces responsivas com **HTML**, **CSS** e **JavaScript**.
 
-Estou em busca de **oportunidades remotas ou presenciais em minha cidade**, que me permitam crescer profissionalmente, colaborar com boas práticas de desenvolvimento e contribuir com projetos desafiadores.
-
 ---
 
 ## 🧰 Tecnologias e Ferramentas
