@@ -2,7 +2,6 @@
 
 🎓 **Graduando em Ciência da Computação (6º semestre)**  
 💻 **Desenvolvedor Fullstack com foco em Python/Django**  
-🚀 **Em busca de oportunidades como Estagiário ou Desenvolvedor Júnior (remoto ou presencial)**
 
 ---
 
