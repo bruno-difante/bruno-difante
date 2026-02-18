@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Atualmente curso o sexto semestre de Ciência da Computação e venho me especializando em desenvolvimento web fullstack, com ênfase em backend utilizando **Python** e o framework **Django**.
+Atualmente curso o sétimo semestre de Ciência da Computação e venho me especializando em desenvolvimento web fullstack, com ênfase em backend utilizando **Python** e o framework **Django**.
 
 Tenho experiência na construção de aplicações com autenticação de usuários, integração com bancos de dados relacionais e não-relacionais, criação de **REST APIs**, além de interfaces responsivas com **HTML**, **CSS** e **JavaScript**.
 
