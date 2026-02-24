@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno!
 
-🎓 **Graduando em Ciência da Computação (6º semestre)**  
+🎓 **Graduando em Ciência da Computação (7º semestre)**  
 💻 **Desenvolvedor Fullstack com foco em Python/Django**  
 
 ---
